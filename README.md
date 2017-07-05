@@ -39,10 +39,10 @@ arcpy.Copy_management ---> Used for showing the houses as a separate layer which
 
 
 ##Contributors:
-Pyzillow API concept idea proposal and implementation by hanneshapke from GitHub.
-Idea of using Beautiful Soup for this project - Dr.Bryan Chastain
-Python Webscraping and Implementation - Jeevan Patnaik
-Project idea, ArcGIS Pro implementation, Core Aspects - Rohit
+1)Pyzillow API concept idea proposal and implementation by hanneshapke from GitHub.
+2)Idea of using Beautiful Soup for this project - Dr.Bryan Chastain.
+3)Python Webscraping and Implementation - Jeevan Patnaik.
+4)Project idea, ArcGIS Pro implementation, Core Aspects - Rohit.
 
 ##Copying/License:
  * Copyright (C) 2016 Dr.Chastain, Zillow.com,HanneShapke,Rohit - All Rights Reserved
