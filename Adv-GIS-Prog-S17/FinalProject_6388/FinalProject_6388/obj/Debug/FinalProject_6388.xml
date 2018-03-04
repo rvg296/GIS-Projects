@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FinalProject_6388
+</name>
+</assembly>
+<members>
+<member name="P:FinalProject_6388.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:FinalProject_6388.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:FinalProject_6388.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:FinalProject_6388.My.ThisAddIn.IDs.Final_Button">
+	<summary>
+Returns 'Microsoft_FinalProject_6388_Final_Button', the id declared for Add-in Button class 'Final_Button'
+</summary>
+</member><member name="P:FinalProject_6388.My.ThisAddIn.IDs.TheissenPolygon">
+	<summary>
+Returns 'Microsoft_FinalProject_6388_TheissenPolygon', the id declared for Add-in Button class 'TheissenPolygon'
+</summary>
+</member><member name="P:FinalProject_6388.My.ThisAddIn.IDs.Proximity">
+	<summary>
+Returns 'Microsoft_FinalProject_6388_Proximity', the id declared for Add-in Button class 'Proximity'
+</summary>
+</member><member name="P:FinalProject_6388.My.ThisAddIn.IDs.ShortestRoute">
+	<summary>
+Returns 'Microsoft_FinalProject_6388_ShortestRoute', the id declared for Add-in Button class 'ShortestRoute'
+</summary>
+</member><member name="T:FinalProject_6388.My.ThisAddIn.IDs">
+	<summary>
+A class for looking up Add-in id strings declared in the associated configuration xml file (.esriaddinx).
+</summary>
+</member><member name="T:FinalProject_6388.My.ThisAddIn">
+	<summary>
+A class for looking up declarative information in the associated configuration xml file (.esriaddinx).
+</summary>
+</member><member name="M:FinalProject_6388.My.Internal.AddInStartupObject.GetThis">
+	<summary>
+ Expose this instance of Add-in class externally
+ </summary>
+</member>
+</members>
+</doc>
