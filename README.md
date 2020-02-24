@@ -1,4 +1,4 @@
-# Search for Best Area to buy a new Residential property in Richardson using Multi-criteria based analysis:
+## Search for Best Area to buy a new Residential property in Richardson using Multi-criteria based analysis:
 This is a Python and ArcGIS integrated application, which retrieves the best fit area to buy a new house in Richardson city based on his parameters. For example, if a user wants to buy a house within a specific distance from a medical facilities or school or grocery stores, it retrieves the best area and the available houses for purchase in that specific area.
 
 ### Motivation:
