@@ -1,5 +1,5 @@
-## Search for Best Area to buy a new Residential property in Richardson using Multi-criteria based analysis:
-This is a Python and ArcGIS integrated application, which retrieves the best fit area to buy a new house in Richardson city based on his parameters. For example, if a user wants to buy a house within a specific distance from a medical facilities or school or grocery stores, it retrieves the best area and the available houses for purchase in that specific area.
+## Search for best area to buy a new residential property using Multi-Criteria Decision Analysis:
+This is a Python and ArcGIS Pro integrated application, which retrieves the best fit area to buy a new house in Richardson city based on his parameters. For example, if a user wants to buy a house within a specific distance from a medical facilities or school or grocery stores, it retrieves the best area and the available houses for purchase in that specific area.
 
 ### Motivation:
 Most of the real-estate websites provide a detailed information for purchasing the houses based on their price values and features. Adequate importance is not given user choices. So, we decided to give user the choice to purchase a house within a prescribed distance defined by him from the facilities available in the City.
@@ -31,11 +31,11 @@ Now run the MultiCriteria.py file in Pycharm. It then prompts you to input the d
 
 ### Code functions:
 Major arcpy functions are present in this code:
-arcpy.Buffer_analysis --> Used for creating a Buffer around the input features.
-arcpy.Intersect_analysis --> Used for intersecting the obtained Buffers.
-arcpy.Select_analysis ---> Used for selecting the houses based on their price value.
-arcpy.SelectLayerbyLocation_management --> Used for selecting the obtained houses that are within the best area obtained.
-arcpy.Copy_management ---> Used for showing the houses as a separate layer which the user can finalize upon purchasing.
+- ```arcpy.Buffer_analysis``` --> Used for creating a Buffer around the input features.
+- ```arcpy.Intersect_analysis``` --> Used for intersecting the obtained Buffers.
+- ```arcpy.Select_analysis``` ---> Used for selecting the houses based on their price value.
+- ```arcpy.SelectLayerbyLocation_management``` --> Used for selecting the obtained houses that are within the best area obtained.
+- ```arcpy.Copy_management``` ---> Used for showing the houses as a separate layer which the user can finalize upon purchasing.
 
 
 #### Contributors:
@@ -47,6 +47,3 @@ arcpy.Copy_management ---> Used for showing the houses as a separate layer which
 #### Copying/License:
  * Copyright (C) 2016 Dr.Chastain, Zillow.com,HanneShapke,Rohit - All Rights Reserved
  * You may use, distribute and modify this code under the permission from either of them mentioned above. 
-
-
-
